@@ -1,5 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
 import './App.css';
+import Cart from './Cart';
 
 function App() {
   return (
