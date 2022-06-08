@@ -8,8 +8,6 @@ function App() {
         <Route path="/" element={<Login />}/>
         <Route path='/cart' element={<Cart />}/>
         <Route path='/product' element={<Product />}/>
-
-
     </Routes>
   );
 }
